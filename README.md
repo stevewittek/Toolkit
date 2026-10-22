@@ -30,6 +30,12 @@ I work on the problems between application code and production infrastructure: q
 
 **Availability:** Developer preview. The implementation repository remains private during the public-release review. This preview does not imply production readiness or distribute the maintenance tool.
 
+## Supporting engineering labs
+
+I also maintain private development labs for **database incident diagnosis** and **database platform observability**. They cover SQL Server DMVs, sanitized incident evidence, read-only metrics, Prometheus/Grafana, controlled workload testing and automated checks.
+
+[See the architecture diagrams and current release boundaries](docs/DATABASE_RELIABILITY_LABS.md). These are lab case studies, not published production tools.
+
 ## More of my work
 
 **[Netherwood Data Partners](https://netherwooddatapartners.com/about/)**: database engineering, software and data integration projects, with a [public website repository](https://github.com/stevewittek/netherwood-data-partners) and [SQL Server articles](https://netherwooddatapartners.com/articles/).
